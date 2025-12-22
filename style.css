@@ -103,4 +103,16 @@
   top: -400px;
 }
 
+.color-green {
+  background-color: #00FF7F;
+}
 
+.color-violet {
+  background-color: #8A2BE2;
+}
+
+.button-position {
+  margin-top: 60px;
+  margin-left: 50px;
+  margin-right: 15px;
+}
